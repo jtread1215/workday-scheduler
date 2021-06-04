@@ -1,0 +1,49 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    border-bottom: 13px solid black;
+  }
+
+  .entry{
+    white-space: pre-wrap;
+  }
+
+  .hour-line{
+    text-align: center;
+    border-radius: 10px;
+  }
+
+  .completed {
+    background-color: lightblue;
+    color: white;
+  }
+  
+  .approaching {
+    background-color: pink;
+    color: white;
+  }
+  
+  .inprogress {
+    background-color: lightgreen;
+    color: white;
+  }
+  
+
+  .saveBtn {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: skyblue;
+    color: white;
+  }
+  
+  .saveBtn i:hover {
+    font-size: 20px;
+    transition: all .3s ease-in-out;
+  }
