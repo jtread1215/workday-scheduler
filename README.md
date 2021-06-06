@@ -8,3 +8,6 @@ The application also features a live color-coded update based on past, present, 
 The application will allow the user to add events to each hour time slot and save locally to their device.
 
 # Visuals
+Scheduler screenshot with no entries and not between the 9 am to 5 pm time period. All slots are gray.
+
+Scheduler screenshot with entries and color-coded by past, present, and future instances.
