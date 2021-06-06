@@ -1,5 +1,5 @@
 # Workday-Scheduler
-
+A simple calendar app for scheduling your work day.
 
 # Description
 This application is a useful tool for any user to utilize as a daily work planner from 9 am to 5 pm.
