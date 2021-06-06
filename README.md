@@ -11,6 +11,7 @@ The application will allow the user to add events to each hour time slot and sav
 Scheduler screenshot with no entries and not between the 9 am to 5 pm time period. All slots are gray.
 ![image](https://user-images.githubusercontent.com/77247419/120909759-6d60c180-c646-11eb-8a51-fd1d422171a6.png)
 
+Scheduler screenshot with entries before the 9 am to 5 pm time period. All slots are green.
+![image](https://user-images.githubusercontent.com/77247419/120924098-fce68e80-c69f-11eb-80e9-d593b8191c59.png)
 
-
-Scheduler screenshot with entries and color-coded by past, present, and future instances.
+Scheduler screenshot with entries and color-coded by past (gray), present (red), and future (green) entries.
