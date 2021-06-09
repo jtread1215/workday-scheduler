@@ -17,5 +17,6 @@ Scheduler screenshot with entries before the 9 am to 5 pm time period. All slots
 Scheduler screenshot with entries and color-coded by past (gray), present (red), and future (green) entries.
 ![image](https://user-images.githubusercontent.com/77247419/121097745-7d9dab80-c7c2-11eb-8366-cde111542218.png)
 
-# Link
+# Links
 https://github.com/jtread1215/workday-scheduler
+https://jtread1215.github.io/workday-scheduler/
