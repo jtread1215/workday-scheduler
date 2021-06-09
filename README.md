@@ -19,4 +19,5 @@ Scheduler screenshot with entries and color-coded by past (gray), present (red),
 
 # Links
 https://github.com/jtread1215/workday-scheduler
+<br />
 https://jtread1215.github.io/workday-scheduler/
